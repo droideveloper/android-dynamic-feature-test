@@ -1,0 +1,14 @@
+android {
+
+  flavorDimensions "default"
+
+  productFlavors {
+    foo {
+
+    }
+
+    bar {
+
+    }
+  }
+}
